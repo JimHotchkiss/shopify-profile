@@ -1,0 +1,8 @@
+* Profile div
+     <div data-w-id="8da6c480-b9e9-8135-1b42-a00ab911c0d2_instance-0" data-wf-id="[&quot;e7cd6025-fc49-a4f8-fb78-6bc867ed5085&quot;,&quot;8da6c480-b9e9-8135-1b42-a00ab911c0d2_instance-0&quot;]" data-dyn-label="Team Members: Jade Cameron" role="listitem" class="align-center-mobile w-dyn-item">
+            <a data-w-id="8da6c480-b9e9-8135-1b42-a00ab911c0d3_instance-0" data-wf-id="[&quot;e7cd6025-fc49-a4f8-fb78-6bc867ed5085&quot;,&quot;8da6c480-b9e9-8135-1b42-a00ab911c0d3_instance-0&quot;]" href="/team/jade-cameron" class="team-wrap w-inline-block" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
+              <img loading="lazy" data-wf-id="[&quot;e7cd6025-fc49-a4f8-fb78-6bc867ed5085&quot;,&quot;8da6c480-b9e9-8135-1b42-a00ab911c0d4_instance-0&quot;]" data-w-id="8da6c480-b9e9-8135-1b42-a00ab911c0d4_instance-0" src="https://uploads-ssl.webflow.com/610db0edee34e42f871bbb97/610db0edee34e4ecdb1bbca3_T-1%2525402x.jpeg" alt="" class="team-thumbnail">
+              <div data-w-id="8da6c480-b9e9-8135-1b42-a00ab911c0d5_instance-0" data-wf-id="[&quot;e7cd6025-fc49-a4f8-fb78-6bc867ed5085&quot;,&quot;8da6c480-b9e9-8135-1b42-a00ab911c0d5_instance-0&quot;]">Jade Cameron</div>
+              <div data-w-id="8da6c480-b9e9-8135-1b42-a00ab911c0d6_instance-0" data-wf-id="[&quot;e7cd6025-fc49-a4f8-fb78-6bc867ed5085&quot;,&quot;8da6c480-b9e9-8135-1b42-a00ab911c0d6_instance-0&quot;]" class="text-block">VP, Design</div>
+            </a>
+          </div>
